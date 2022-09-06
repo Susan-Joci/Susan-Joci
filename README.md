@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Susan-Joci
+- 👀 I’m interested in Web applications.
+- 🌱 I’m currently learning Vue.js and Laravel.
+- 💞️ I’m looking to collaborate on interesting projects.
+- 📫 How to reach me in/susan-joshi-060711173/
